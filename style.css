@@ -143,4 +143,56 @@ body {
 }
 
 
-.icons {}
+.card {
+
+    display: flex;
+    width: 100 %;
+    padding: 0 10px;
+    text-align: center;
+
+
+
+
+
+}
+
+.card img {
+    width: 70%;
+
+    justify-items: right;
+}
+
+.left-img {
+    margin-right: -30px;
+    float: right;
+    margin-right: 18px;
+}
+
+
+
+.right-img {
+    text-align: left;
+    margin-right: 500px;
+
+
+}
+
+footer {
+
+
+    justify-content: center;
+    text-align: center;
+    background-color: #0B0D17;
+    color: #EF233C;
+    padding: 30px;
+}
+
+footer p {
+    color: white;
+}
+
+footer h3 {
+
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
